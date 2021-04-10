@@ -64,7 +64,7 @@ data:
       <a class="active" href="#home">HOME</a>
       <a href="#about">ABOUT</a>
       <a href="#gallery">GALLERY</a>
-      <a href="#contact">CONTACT</a>
+      <a href="#contact">CONtACT</a>
     </div>
     </center>
     <br>
@@ -139,3 +139,4 @@ spec:
     name: http
   selector:
     app: app1
+    
