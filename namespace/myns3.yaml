@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: mytenant4ns
+  name: mytenant4ns
