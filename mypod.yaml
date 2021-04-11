@@ -61,7 +61,7 @@ data:
 
     <center>
     <div class="topnav" style="margin: -10px 0 -10px 0">
-      <a class="active" href="#home">Home</a>
+      <a class="active" href="#home">HOME</a>
       <a href="#about">ABOUT</a>
       <a href="#gallery">GALLERY</a>
       <a href="#contact">CONTACT</a>
