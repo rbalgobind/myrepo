@@ -7,6 +7,7 @@
 #"
 # (c) Copyright Balgobind Software Ltd, 2021. All rights reserved
 # ----------------------------------------------------------------
+
 ---
 apiVersion: v1
 kind: Namespace
