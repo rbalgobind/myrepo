@@ -2,7 +2,7 @@
 echo
 echo "# --------------------------------------------------------"
 echo "# Name:     Roland Balgobind"
-echo "# Date:     23rd February 2021"
+echo "# Date:     7th November 2021"
 echo "# Version:  1.0"
 echo "# Comments: ConfigMap based NGINX deployment "
 echo "#           with a simple website"
