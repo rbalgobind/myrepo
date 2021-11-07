@@ -9,7 +9,7 @@ echo "#           with a simple website"
 echo "# --------------------------------------------------------"
 echo
 
-myappname="rolydemoapplication"
+myappname="rolydemoapplication1"
 mynamespace="mytenantns"
 
 # . ./variables.sh
