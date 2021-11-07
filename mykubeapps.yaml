@@ -95,8 +95,6 @@ metadata:
   name: app1
   namespace: mytenantns
 spec:
-  serviceAccount: kubeapps-operator
-  serviceAccountName: kubeapps-operator
   selector:
     matchLabels:
       app: nginx
