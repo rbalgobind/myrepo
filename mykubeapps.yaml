@@ -95,6 +95,8 @@ metadata:
   name: app1
   namespace: mytenantns
 spec:
+  serviceAccount: kubeapps-operator
+  serviceAccountName: kubeapps-operator
   selector:
     matchLabels:
       app: nginx
@@ -107,8 +109,6 @@ spec:
       labels:
         app: app1
     spec:
-      serviceAccount: kubeapps-operator
-      serviceAccountName: kubeapps-operator
       volumes:
       - name: svrdetails
         configMap:
